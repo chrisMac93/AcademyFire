@@ -1,0 +1,7 @@
+{
+  "name": "academyFire",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
