@@ -11,7 +11,8 @@ export const environment = {
     projectId: 'academyfire-e7027',
     storageBucket: 'academyfire-e7027.appspot.com',
     messagingSenderId: '467523628479',
-    appId: '1:467523628479:web:b512835b467de7c306850a'
+    appId: '1:467523628479:web:b512835b467de7c306850a',
+    measurementId: 'G-H9KBZEZWQK'
   }
 };
 
